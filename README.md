@@ -1,2 +1,2 @@
 # OPINION-MINING-USING-TEXT-DATA-FROM-MOVIES-REVIEWS
-This project was implemented in JAVA.
+This was a group project implemented in JAVA.
